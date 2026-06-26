@@ -1,0 +1,6 @@
+{
+  "name": "Restaurant Manager",
+  "description": "A comprehensive restaurant management system supporting Dine-In, Takeaway, and Car Service orders, featuring real-time inventory tracking and thermal bill printing simulation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
